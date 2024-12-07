@@ -1,0 +1,13 @@
+NAME="Archman"
+PRETTY_NAME="Archman"
+ID=archman
+BUILD_ID=archman
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archman.org"
+DOCUMENTATION_URL="https://archman.org/topluluk/belgeler"
+SUPPORT_URL="https://archman.org/topluluk"
+BUG_REPORT_URL="https://gitlab.com/groups/Archman-OS/-/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archman
+IMAGE_ID=archman
+IMAGE_VERSION=2024.07.17
